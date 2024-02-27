@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448422402554",
+    "project_id": "myatt-ace04",
+    "storage_bucket": "myatt-ace04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448422402554:android:c9c19e0096e775f93e6c43",
+        "android_client_info": {
+          "package_name": "com.example.myatt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lbMipNQCNz_PY4v3sNJXikzdPoZ-234"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
